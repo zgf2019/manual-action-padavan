@@ -5,7 +5,7 @@ on:
     inputs:
       production:
         description: 设置固件型号：
-        default: "NEWIFI-MINI"
+        default: "MSG1500-7615 NEWIFI-MINI NEWIFI3"
         required: false
       cloneurl:
         description: 设置源码地址：
