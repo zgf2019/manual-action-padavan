@@ -5,7 +5,7 @@ on:
     inputs:
       production:
         description: 设置固件型号：
-        default: "YK_L1"
+        default: "YK-L1"
         required: false
       cloneurl:
         description: 设置源码地址：
